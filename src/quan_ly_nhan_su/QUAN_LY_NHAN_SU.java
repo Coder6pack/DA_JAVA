@@ -14,7 +14,7 @@ public class QUAN_LY_NHAN_SU {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
+        int â =0;
     }
 
 }
